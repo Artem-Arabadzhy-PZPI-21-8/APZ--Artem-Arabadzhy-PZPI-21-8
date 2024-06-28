@@ -38,5 +38,6 @@
 За допомогою бліотеки NextAuth, яка забезпечує аутентифікацію та авторизацію. Також за допомогою вбудованих можливостей Next.Js. front-end частину було пов’язано з back-end частиною.
 
 Посилання на демо-відео:
+https://youtu.be/jGA-waCFcys
 Посилання на репозиторій GitHub:
 https://github.com/NureArabadzhyArtem/apz-pzpi-21-8-arabadzhy-artem
